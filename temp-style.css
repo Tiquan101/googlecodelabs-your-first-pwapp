@@ -1,0 +1,24 @@
+.table2 { 
+    background-image: linear-gradient(white, rgb(13, 17, 236));
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button {
+    background-color: rgb(14, 12, 12);
+    border-color: rgb(187, 214, 65);
+    border-radius: 15px;
+    width: 100px;
+    height: 30px;
+}
+
+.table3 {
+    background-image: linear-gradient(rgb(63, 51, 228), rgb(81, 194, 141));
+    width: 80%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+  background: #138ae6;
+  color: rgb(10, 3, 3);
+}
+
